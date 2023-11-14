@@ -11,7 +11,7 @@ function RecipeCard() {
         <div id={recipe.id}>
           <Card
             className="shadow p-3 mb-5 bg-body-tertiary rounded"
-            style={{ width: "18rem", height: "35rem" }}
+            style={{ width: "18rem", height: "38rem" }}
           >
             <Card.Img
               className="w-auto h-2 "
