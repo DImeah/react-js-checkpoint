@@ -21,7 +21,7 @@ function form() {
             <Form.Label></Form.Label>
             <Form.Control as="textarea" rows={3} />
             <input
-              class="btn btn-primary mt-3"
+              className="btn btn-primary mt-3"
               type="submit"
               value="Submit"
               placeholder="Please type your message here"
