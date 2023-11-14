@@ -1,4 +1,3 @@
-import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 import NavBar from "./components/navbar/NavBar";
 import Hero from "./components/hero-section/Hero";
