@@ -1,7 +1,9 @@
+// Imports from react-bootstrap
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import { recipes } from "../../data";
 
+// A function to dynamically render the recipe cards
 function RecipeCard() {
   return (
     <div className="d-flex justify-content-center gap-5">
@@ -22,4 +24,5 @@ function RecipeCard() {
   );
 }
 
+// Export the recipe card for use in the App
 export default RecipeCard;

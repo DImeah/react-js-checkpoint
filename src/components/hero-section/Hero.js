@@ -1,5 +1,7 @@
+// Imports from react-bootstrap
 import React from "react";
 
+// A function to render hero section
 function hero() {
   return (
     <div>

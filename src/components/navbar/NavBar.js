@@ -1,8 +1,10 @@
+// Imports from react-bootstrap
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import Stack from "react-bootstrap/Stack";
 
+// A function to  render the Navbar
 function navbar() {
   return (
     <>
